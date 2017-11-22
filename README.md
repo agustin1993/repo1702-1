@@ -32,6 +32,14 @@ git pull
 git add .
 git commit -m "fin clase .... bla, bla"
 git push
+<<<<<<< HEAD
 
 :3
 Hola, cambio realizado por "Agustin Juan Lopez Vila"
+=======
+```
+:3
+Hola, cambio realizado por "Agustin Juan Lopez Vila"
+```
+# Conflictos
+>>>>>>> 37fab0f190dacf24f1c3442c228def8bc822f298
